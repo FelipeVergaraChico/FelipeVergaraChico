@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Felipe Vergara
 
-- 🌱 I’m currently studying on Trybe
+- 🌱 I’m currently studying on Trybe and doing Cc on Uniritter
 - 😄 Pronouns: he/him
 
 ##
