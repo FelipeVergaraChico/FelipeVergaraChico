@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Ana+Cristina.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E6AFF&width=435&lines=Hi!+i'm+Felipe+Vergara+Chico.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/night%20code.gif" alt="Pixel Art" align="right" width="200">
 
