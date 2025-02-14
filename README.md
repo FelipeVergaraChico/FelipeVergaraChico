@@ -2,6 +2,10 @@
 
 <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/night%20code.gif" alt="Pixel Art" align="right" width="200">
 
+### About Me
+
+Full Stack Developer with experience in e-commerce projects and web applications, using technologies such as React, Node.js, and MySQL. Proficient in agile methodologies and secure development practices, with strong communication and teamwork skills. Seeking new opportunities to apply and expand my software development expertise.
+
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
